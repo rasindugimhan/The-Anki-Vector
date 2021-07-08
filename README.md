@@ -1,11 +1,11 @@
 # The-Anki-Vector-Bot
 # The-Anki-Vector-Bot Based on Python Telegram Bot
 <p align="leaft">
-  <img src="https://telegra.ph/file/3b6aa07aac530199d5358.png" width='600"'>
+  <img src="https://telegra.ph/file/90074b2e822898f312fd4.jpg" width='600"'>
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/The-Anki-Vector.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rasindugimhan/The-Anki-Vector.git)
 
 
 ### Video Tutorial:
@@ -35,4 +35,4 @@ The Advanced Branch (For PRO's)
 The Anki Vector bot(advanced)
 
 ## Special Credits
-- [Damantha](https://github.com/Damantha126) - A Co-Developer of Project
+- [Damantha](https://github.com/rasindugimhan) - A Co-Developer of Project
