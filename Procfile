@@ -1,3 +1,3 @@
-worker: python3 -m AnkiVector
-web: python3 -m AnkiVector
+worker: python3 -m ShizuBot
+web: python3 -m ShizuBot
 ps:scale worker=1
