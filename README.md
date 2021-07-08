@@ -16,7 +16,7 @@ Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
 ☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
-## New version Avaiilable on Telegram as [The-Anki-Vector-Bot](https://t.me/TheAnkiVectorbot)
+## New version Avaiilable on Telegram as [ShizuBot](https://t.me/Shizu_herobot)
 ## The-Anki-Vector-Bot is the latest
 
 
