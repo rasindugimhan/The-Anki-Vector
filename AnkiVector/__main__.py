@@ -83,7 +83,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector to your group ➕", url="t.me/MrRGYT_music_bot?startgroup=true"
+            text="➕ Add Shizu💕 to your group ➕", url="t.me/MrRGYT_music_bot?startgroup=true"
         ),
     ],
 ]
