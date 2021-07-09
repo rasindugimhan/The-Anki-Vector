@@ -1,15 +1,15 @@
 {
-      "name": "The Anki Vector",
+      "name": "ShizuBot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+      "logo": "https://telegra.ph/file/90074b2e822898f312fd4.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Ankivector"
+         "ShizuBot"
       ],   
-   "repository": "https://github.com/Damantha126/The-Anki-Vector",
+   "repository": "https://github.com/rasindugimhan/The-Anki-Vector",
    "addons": [
       {
          "options": {
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Damantha_Jasinghe"
+         "value": "Mr_Rasiyaa"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "ankivectorUpdates"
+         "value": "Shizu update"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -180,6 +180,6 @@
       "manager",
       "daisy"
    ],
-   "name": "Ankivector",
-   "repository": "https://github.com/Damantha126/The-Anki-Vector"
+   "name": "ShizuBot",
+   "repository": "https://github.com/rasindugimhan/The-Anki-Vector"
 }
