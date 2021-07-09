@@ -1,5 +1,5 @@
 __help__ = """
-** Anki Vector - A Powerful Telegram Group Manager 🎶 **
+** ShizuBot - A Powerful Telegram Group Manager 🎶 **
 
 Powerful Abilities
 
@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developer [Damantha🇱🇰](https://t.me/Damantha_Jasinghe)
+Developer [Rasindu🇱🇰](https://t.me/Mr_Rasiyaa)
 """
 __mod_name__ = "About"
