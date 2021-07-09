@@ -1,5 +1,5 @@
-# The-Anki-Vector-Bot
-# The-Anki-Vector-Bot Based on Python Telegram Bot
+# ShizuBot
+# ShizuBot Based on Python Telegram Bot
 <p align="leaft">
   <img src="https://telegra.ph/file/90074b2e822898f312fd4.jpg" width='600"'>
 </p>
@@ -8,16 +8,16 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rasindugimhan/The-Anki-Vector.git)
 
 
-### Video Tutorial:
-Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
-☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
+
+
+
+
+
 
 ## New version Avaiilable on Telegram as [ShizuBot](https://t.me/Shizu_herobot)
-## The-Anki-Vector-Bot is the latest
+## ShizuBot is the latest
 
 
 
@@ -27,12 +27,12 @@ This repo was just revamped to suit an Anime-centric community. All original cre
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [The Anki Vector bot](https://t.me/ankivectorUpdates) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [ShizuBot](https://t.me/Shizu_herobot) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## ShizuBot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-The Anki Vector bot(advanced)
+(advanced)
 
 ## Special Credits
-- [Damantha](https://github.com/rasindugimhan) - A Co-Developer of Project
+- [Rasindu](https://github.com/rasindugimhan) - A Co-Developer of Project
