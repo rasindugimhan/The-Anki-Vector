@@ -63,19 +63,19 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Shizu💕
-I'm a Powerful group manager bot With Cool Modules. Made by [Rasindu Gimhan 🇱🇰](t.me/Mr_Rasiyaa)
+Hello there, I'm Visha💕
+I'm a Powerful group manager bot With Cool Modules. Made by [Jeram Vishal 🍃](t.me/VISHA_BAE)
 Hit /help to find my list of available commands
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/Mr_RG_YT"),
+        InlineKeyboardButton(text="👤Owner", url="https://t.me/VISHA_BAE"),
         InlineKeyboardButton(text="👥 Support Group", url="https://t.me/youtubesupportgroupforall"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/Mr_RG_YT"),
+        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/VISHA_BAE"),
         InlineKeyboardButton(text="📜Source", url="https://youtube.com/c/MrRGYT"),
     ],
     [
@@ -83,15 +83,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Shizu💕 to your group ➕", url="t.me/MrRGYT_music_bot?startgroup=true"
+            text="➕ Add Visha💕 to your group ➕", url="t.me/VISHA_MANAGEMENT_BOT?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/90074b2e822898f312fd4.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/bb8c9ab1b759a046829ce.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/90074b2e822898f312fd4.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/bb8c9ab1b759a046829ce.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -106,7 +106,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Rasindu Gimhan](t.me/Mr_Rasiyaa)"""
+Support them  [Jeram vishal](t.me/VISHA_BAE)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
