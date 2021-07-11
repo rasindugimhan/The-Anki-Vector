@@ -31,6 +31,6 @@ jobs:
           commit_message: 'pylint: auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: Damantha126
-          commit_user_email: damanthaja@gmail.com
-          commit_author: Damantha126 <damanthaja@gmail.com>
+          commit_user_name: rasindugimhan 
+          commit_user_email: rasindu.gimhan2005@gmail.com
+          commit_author: rasindugimhan <rasindu.gimhan2005@gmail.com>
